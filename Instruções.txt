@@ -1,0 +1,1 @@
+Para iniciar a aplicação e garantir que tudo funcione corretamente, digite o comando "npm start" no terminal do projeto.
